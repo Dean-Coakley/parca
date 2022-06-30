@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.13.15](https://github.com/Dean-Coakley/parca/compare/ui-v0.13.11...ui-v0.13.15) (2022-06-30)
+
+## [0.13.10](https://github.com/Dean-Coakley/parca/compare/ui-v0.13.7...ui-v0.13.10) (2022-06-22)
+
+**Note:** Version bump only for package @parca/store
+
 ## [0.13.12](https://github.com/parca-dev/parca/compare/ui-v0.13.11...ui-v0.13.12) (2022-06-27)
 
 **Note:** Version bump only for package @parca/store
